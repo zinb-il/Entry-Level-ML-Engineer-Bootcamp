@@ -2,7 +2,16 @@
 
 Welcome to the **Entry-Level ML Engineer Bootcamp**! This program is designed to help you kickstart your journey in ML by learning the fundamentals of machine learning through hands-on projects.  
 
-## 🌟 join course  
+## 📅 Bootcamp Structure  
+
+The program is divided into **four modules (weeks)**, each covering a crucial stage of the ML pipeline:  
+
+1. **Week 1 - Getting the Data**: Learn how to collect and prepare datasets for ML projects.  
+2. **Week 2 - Cleaning and Validating Data**: Understand data preprocessing, handling missing values, and feature engineering.  
+3. **Week 3 - Training Models**: Explore different ML models, train them.
+4. **Week 4 - Deploying Models**: Learn how to deploy models to production and make them accessible.  
+
+## 🌟 How to Use This Repo  
 
 1. **Fork & Star** this repository ⭐ if you find it useful.  
 2. **Clone your fork** to your local machine:  
