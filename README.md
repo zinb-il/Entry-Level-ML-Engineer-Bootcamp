@@ -2,7 +2,7 @@
 
 Welcome to the **Entry-Level ML Engineer Bootcamp**! This program is designed to help you kickstart your journey in ML by learning the fundamentals of machine learning through hands-on projects.  
 
-## 🌟 How to Use This Repo  
+## 🌟 join course  
 
 1. **Fork & Star** this repository ⭐ if you find it useful.  
 2. **Clone your fork** to your local machine:  
