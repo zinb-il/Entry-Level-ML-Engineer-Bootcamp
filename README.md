@@ -1,5 +1,6 @@
-![Alt text](https://github.com/1337-Artificial-Intelligence/Entry-Level-ML-Engineer-Bootcamp/blob/main/static/star.gif "Title")
 # 🚀 Entry-Level ML Engineer Bootcamp  
+
+![Alt text](https://github.com/1337-Artificial-Intelligence/Entry-Level-ML-Engineer-Bootcamp/blob/main/static/star.gif "Title")
 
 Welcome to the **Entry-Level ML Engineer Bootcamp**! This program is designed to help you kickstart your journey in ML by learning the fundamentals of machine learning through hands-on projects.  
 
