@@ -16,7 +16,7 @@ The program is divided into **four modules (weeks)**, each covering a crucial st
 ## 🌟 How to Use This Repo  
 
 1. **Fork & Star** this repository ⭐ if you find it useful.  
-2. **Clone your fork** to your local machine:  
+2. **Clone your fork** to your local machine
 3. Work on the exercises and push your solutions to your own repo.  
 ## 🛠 Found a Bug or an Error?  
 
