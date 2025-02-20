@@ -1,3 +1,4 @@
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
 # 🚀 Entry-Level ML Engineer Bootcamp  
 
 Welcome to the **Entry-Level ML Engineer Bootcamp**! This program is designed to help you kickstart your journey in ML by learning the fundamentals of machine learning through hands-on projects.  
