@@ -1,0 +1,26 @@
+Below are the resources that helped me solve this module
+
+Week00:
+-------------------------------------------
+Ex00:
+-----
+    https://dev.to/eskabore/pip-freeze-requirementstxt-a-beginners-guide-5e2m#:~:text=Using%20Pip%20Freeze%20is%20very,along%20with%20their%20version%20numbers
+    https://www.geeksforgeeks.org/what-is-conda/
+
+Ex01:
+-----
+    https://www.geeksforgeeks.org/__name__-a-special-variable-in-python/
+    https://www.geeksforgeeks.org/python-list-slicing/
+    https://www.geeksforgeeks.org/string-formatting-in-python/
+    https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/
+    https://www.w3schools.com/python/ref_string_swapcase.asp
+    https://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
+
+Ex03:
+-----
+    https://www.geeksforgeeks.org/python-assertion-error/
+
+Ex04:
+-----
+    https://www.geeksforgeeks.org/python-isinstance-method/
+    https://www.w3schools.com/python/ref_string_format.asp
